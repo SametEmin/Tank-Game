@@ -1,18 +1,12 @@
 # 🛡️ Tank Battle Game 🚀
 
-![Game Screenshot](path/to/image.png)
+![Game Screenshot](1.png)
 
 ## 🎮 About the Game
 A fast-paced tank battle game where players control tanks, shoot enemies, and survive intense combat.
 
 ## 📽️ Gameplay Video
-[![Watch the Video](path/to/thumbnail.png)](https://youtu.be/JBWBTCpfibw)
-
-## 🛠️ Features
-- 🎯 Multiplayer & Singleplayer Modes
-- 🌍 Various Maps & Battle Arenas
-- ⚡ Power-ups and Upgrades
-- 🏗️ Realistic Tank Physics
+[![Watch the Video](2.jpg)](https://youtu.be/JBWBTCpfibw)
 
 ## 🎮 Controls
 | Action | Key |
