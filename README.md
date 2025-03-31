@@ -6,7 +6,7 @@
 A fast-paced tank battle game where players control tanks, shoot enemies, and survive intense combat.
 
 ## 📽️ Gameplay Video
-[![Watch the Video](2.jpg)](https://youtu.be/JBWBTCpfibw)
+[![Watch the Video](2.png)](https://youtu.be/JBWBTCpfibw)
 
 ## 🎮 Controls
 | Action | Key |
